@@ -2,6 +2,10 @@ package Trees;
 
 import java.util.HashMap;
 
+//Q3. Binary Tree From Inorder And Postorder
+//Given the inorder and postorder traversal of a tree, construct the binary tree.
+//NOTE: You may assume that duplicates do not exist in the tree.
+
 
 public class constructTreeGivenTwoArrays {
    
